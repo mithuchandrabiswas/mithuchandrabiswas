@@ -22,8 +22,9 @@ Hi! I'm Mithu Chandra Biswas, a passionate web developer specialized in creating
 
 ## 📫 Contact
 - **Email**: [mithubiswasinfo@gmail.com](mailto:mithubiswasinfo@gmail.com)
-- **Mobile**: ০১৬২২-১৬১০০১
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
+- **Mobile**: ০1622-161001
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mithuchandrabiswasmcb)
+- **GitHub**: [Your GitHub Profile](https://github.com/mithuchandrabiswas)
+- **Facebook**: [Your Facebook Profile](https://www.facebook.com/mithu4882)
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
