@@ -1,4 +1,4 @@
-![Mithu Chandra Biswas](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
+![Mithu Chandra Biswas](https://i.ibb.co/XpPKVzD/Beige-Minimalist-Fashion-Hijab-Facebook-Cover.png)
 
 ## 👋 About Me
 Hi! I'm Mithu Chandra Biswas, a passionate web developer specialized in creating dynamic and beautiful web applications. I love to learn new technologies and continuously improve my skills.
