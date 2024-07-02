@@ -1,6 +1,6 @@
 # ![Mithu Chandra Biswas](link-to-your-profile-image)
 
-![Banner](link-to-your-banner-image)
+![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
 ## 👋 About Me
 Hi! I'm Mithu Chandra Biswas, a passionate web developer specialized in creating dynamic and beautiful web applications. I love to learn new technologies and continuously improve my skills.
